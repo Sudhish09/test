@@ -24,7 +24,6 @@ from tweepy import Cursor
 import tweepy
 from tweepy import OAuthHandler
 import datetime
-import jsonpickle
 import time
 import numpy as np
 from collections import Counter
