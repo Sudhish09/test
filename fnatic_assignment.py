@@ -14,7 +14,6 @@ consumer_secret = "EMD8tz2tDZm90EGelRJ8xQJ6hwcbXYrbdrs7P63qzaSGFkk7a5"
 access_token = "1485865180047491076-PiK2P4wi6AN9t7EWomYttmP5PVMssX"
 access_token_secret = "mLnAVrwUjn4AVyIaUvZsAyDEKN90WfSW8Hl3OOcuPs64n"
 
-!pip install jsonpickle
 
 import os
 import sys
